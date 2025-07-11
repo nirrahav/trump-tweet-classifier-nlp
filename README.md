@@ -53,7 +53,7 @@ Each model was evaluated on:
 
 ## 📁 Files
 - `trump_tweet_authorship_classification.ipynb`: Main notebook
-- `Answers.pdf`: Final report (in Hebrew)
+- `trump_tweet_authorship_report.pdf`: Final report (in Hebrew)
 - `README.md`: This file 😊
 
 ## 👤 Authors
