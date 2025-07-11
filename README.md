@@ -54,7 +54,6 @@ Each model was evaluated on:
 ## 📁 Files
 - `trump_tweet_authorship_classification.ipynb`: Main notebook
 - `trump_tweet_authorship_report.pdf`: Final report (in Hebrew)
-- `README.md`: This file 😊
 
 ## 👤 Authors
 - Nir Rahav  
